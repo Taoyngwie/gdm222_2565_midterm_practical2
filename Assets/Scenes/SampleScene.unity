@@ -267,12 +267,12 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   lineRenderer: {fileID: 392305822}
   a: 1
-  b: 0
-  c: 1
+  b: 0.5
+  c: 3
   d: 0
   minParameter: 0
-  maxParameter: 1
-  step: 4
+  maxParameter: 0.75
+  step: 21
 --- !u!1 &705507993
 GameObject:
   m_ObjectHideFlags: 0
